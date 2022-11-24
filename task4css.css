@@ -102,7 +102,7 @@
   opacity: 50%;
 }
 .line {
-  translate: 200px;
+  translate: 167px;
   height: 100px;
   width: 6px;
   border-radius: 2px;
@@ -127,7 +127,7 @@ li:hover {
   transition: 0.3s;
 }
 .menu > img {
-  width: 300px;
+  width: 400px;
   border-radius: 20px;
   margin-right: 20px;
 
